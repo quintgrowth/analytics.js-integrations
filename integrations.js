@@ -46,6 +46,7 @@ module.exports = [
   require('./lib/insidevault'),
   require('./lib/inspectlet'),
   require('./lib/intercom'),
+  require('./lib/interstate'),
   require('./lib/keen-io'),
   require('./lib/kenshoo'),
   require('./lib/kissmetrics'),
